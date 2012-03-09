@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1138079/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/function
+END
+PDFunctionType4.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/949543/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunctionType4.java
+END
+PDFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/949543/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunction.java
+END
+PDFunctionType0.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/949543/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunctionType0.java
+END
+PDFunctionType2.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1138079/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunctionType2.java
+END
+PDFunctionType3.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1138079/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunctionType3.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/function/package.html
+END

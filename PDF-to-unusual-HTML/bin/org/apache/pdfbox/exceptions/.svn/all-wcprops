@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1092857/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/exceptions
+END
+SignatureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1092857/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/exceptions/SignatureException.java
+END
+WrappedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/exceptions/WrappedException.java
+END
+COSVisitorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/exceptions/COSVisitorException.java
+END
+InvalidPasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/exceptions/InvalidPasswordException.java
+END
+WrappedIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/exceptions/WrappedIOException.java
+END
+CryptographyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/exceptions/CryptographyException.java
+END
+OutlineNotLocalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/exceptions/OutlineNotLocalException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/exceptions/package.html
+END

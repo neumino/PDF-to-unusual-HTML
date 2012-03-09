@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1142109/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos
+END
+COSStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSStream.java
+END
+COSInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1063401/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSInteger.java
+END
+COSFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1063401/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSFloat.java
+END
+COSDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1142109/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSDictionary.java
+END
+COSString.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1140753/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSString.java
+END
+COSObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSObject.java
+END
+COSDictionaryLateBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1142109/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSDictionaryLateBinding.java
+END
+ICOSVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/ICOSVisitor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/package.html
+END
+COSNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSNull.java
+END
+COSBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1092855/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSBase.java
+END
+COSUnread.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1142109/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSUnread.java
+END
+COSDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1138995/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSDocument.java
+END
+COSArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1092855/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSArray.java
+END
+COSBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSBoolean.java
+END
+COSName.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1139570/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSName.java
+END
+COSNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/988916/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/cos/COSNumber.java
+END

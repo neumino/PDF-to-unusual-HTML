@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1059595/pdfbox/trunk/pdfbox/src/main/resources/org/apache/pdfbox/resources
+END
+PDFMarkedContentExtractor.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/resources/org/apache/pdfbox/resources/PDFMarkedContentExtractor.properties
+END
+PDFTextStripper.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/resources/org/apache/pdfbox/resources/PDFTextStripper.properties
+END
+additional_glyphlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/resources/org/apache/pdfbox/resources/additional_glyphlist.txt
+END
+PDFBox_External_Fonts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/resources/org/apache/pdfbox/resources/PDFBox_External_Fonts.properties
+END
+PageDrawer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/resources/org/apache/pdfbox/resources/PageDrawer.properties
+END
+FontMapping.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/resources/org/apache/pdfbox/resources/FontMapping.properties
+END
+pdfbox.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/956669/pdfbox/trunk/pdfbox/src/main/resources/org/apache/pdfbox/resources/pdfbox.properties
+END

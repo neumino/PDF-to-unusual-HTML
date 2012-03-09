@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/992066/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/conversion
+END
+CJKConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/conversion/CJKConverter.java
+END
+EncodingConversionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/conversion/EncodingConversionManager.java
+END
+CMapSubstitution.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/992066/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/conversion/CMapSubstitution.java
+END
+CJKEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/conversion/CJKEncoding.java
+END
+EncodingConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/conversion/EncodingConverter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/conversion/package.html
+END

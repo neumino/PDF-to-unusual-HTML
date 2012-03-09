@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1056730/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding
+END
+WinAnsiEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/992271/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/WinAnsiEncoding.java
+END
+EncodingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/992271/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/EncodingManager.java
+END
+MacRomanEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/996350/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/MacRomanEncoding.java
+END
+Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1056730/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/Encoding.java
+END
+PdfDocEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/996350/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/PdfDocEncoding.java
+END
+StandardEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/996350/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/StandardEncoding.java
+END
+Type1Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/992066/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/Type1Encoding.java
+END
+AFMEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/928462/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/AFMEncoding.java
+END
+DictionaryEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/992271/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/DictionaryEncoding.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encoding/package.html
+END

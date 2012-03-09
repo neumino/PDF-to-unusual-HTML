@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1133388/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics
+END
+PDShading.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1133328/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/PDShading.java
+END
+PDGraphicsState.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1083886/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/PDGraphicsState.java
+END
+PDExtendedGraphicsState.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1083886/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/PDExtendedGraphicsState.java
+END
+PDFontSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/PDFontSetting.java
+END
+PDLineDashPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/PDLineDashPattern.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/package.html
+END

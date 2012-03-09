@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1135144/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util
+END
+PDFMergerUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1026228/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFMergerUtility.java
+END
+LayerUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1063401/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/LayerUtility.java
+END
+ICU4JImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/942541/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/ICU4JImpl.java
+END
+TextPositionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/TextPositionComparator.java
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1044823/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/Matrix.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1063401/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/StringUtil.java
+END
+DateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1135144/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/DateConverter.java
+END
+PositionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/992237/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PositionWrapper.java
+END
+TextNormalize.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/TextNormalize.java
+END
+ImageParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/928462/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/ImageParameters.java
+END
+Splitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1038796/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/Splitter.java
+END
+PDFTextStripper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1072665/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFTextStripper.java
+END
+BitFlagHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1065086/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/BitFlagHelper.java
+END
+PageExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/992237/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PageExtractor.java
+END
+PDFImageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFImageWriter.java
+END
+TextPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1044823/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/TextPosition.java
+END
+PDFStreamEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1044823/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFStreamEngine.java
+END
+MapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/MapUtil.java
+END
+PDFCloneUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1026228/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFCloneUtility.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/ResourceLoader.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/package.html
+END
+ExtensionFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/ExtensionFileFilter.java
+END
+PDFMarkedContentExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFMarkedContentExtractor.java
+END
+PDFOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFOperator.java
+END
+PDFText2HTML.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1083901/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFText2HTML.java
+END
+PDFHighlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFHighlighter.java
+END
+ErrorLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/ErrorLogger.java
+END
+PDFTextStripperByArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1031549/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/PDFTextStripperByArea.java
+END
+XMLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/XMLUtil.java
+END

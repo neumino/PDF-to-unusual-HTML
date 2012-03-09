@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/util
+END
+ExtractTextByArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/util/ExtractTextByArea.java
+END
+PrintImageLocations.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/util/PrintImageLocations.java
+END
+RemoveAllText.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/util/RemoveAllText.java
+END
+PrintTextLocations.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/util/PrintTextLocations.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/util/package.html
+END

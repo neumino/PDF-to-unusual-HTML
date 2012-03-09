@@ -1,0 +1,29 @@
+/************** License stuff **************/
+I have used Apache License v2.0, so the same license probably apply.
+
+
+
+
+
+/************** About the code **************/
+Don't expect great and elegant code.
+
+Everything here was coded in a rush (less than one day for this one too).
+
+It's almost the original source code.
+This project used to crawl through directories, find pdf and convert them and save the publications converted in a MySQL database. I have removed all the code related to this.
+I have removed all the unuse classes (things I tried).
+
+
+
+/************** To come **************/
+I plan to fork this project and try something more scalable.
+The idea is to use something like Node.js to convert PDF files on the fly.
+
+If you are interested/need it, contact me, I might change/have changed my mind.
+
+
+/************** Contact **************/
+Michel T.
+orphee@gmail.com
+http://www.neumino.com

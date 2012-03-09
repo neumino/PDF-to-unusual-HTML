@@ -1,0 +1,30 @@
+/************** License stuff **************/
+I have used Apache License v2.0, so the same license probably apply.
+
+
+
+
+
+/************** About the code **************/
+Don't expect great and elegant code.
+
+Everything here was coded in a rush (less than one day for this one too).
+
+It's almost the original source code.
+This project used to crawl through directories, find pdf and convert them and save the publications converted in a MySQL database. I have removed all the code related to this.
+I have removed all the unuse classes (things I tried).
+
+
+
+/************** To come **************/
+As for now, I don't plan to improve this project because:
+	- I have better projects for now
+	- I don't have any use of this for now
+
+If you are interested/need it, contact me, I might change/have changed my mind.
+
+
+/************** Contact **************/
+Michel T.
+orphee@gmail.com
+http://www.neumino.com

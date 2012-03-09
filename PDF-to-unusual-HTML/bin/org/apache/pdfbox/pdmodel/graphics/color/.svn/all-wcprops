@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1083488/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color
+END
+PDDeviceN.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/949822/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceN.java
+END
+PDPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/928462/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDPattern.java
+END
+PDColorState.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/932179/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDColorState.java
+END
+PDIndexed.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/956347/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDIndexed.java
+END
+ColorSpaceCalRGB.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/ColorSpaceCalRGB.java
+END
+PDGamma.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDGamma.java
+END
+PDDeviceGray.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceGray.java
+END
+PDColorSpaceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1083488/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDColorSpaceFactory.java
+END
+PDCalGray.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/928462/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDCalGray.java
+END
+PDDeviceCMYK.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceCMYK.java
+END
+PDDeviceNAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/928462/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceNAttributes.java
+END
+PDDeviceRGB.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceRGB.java
+END
+PDColorSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDColorSpace.java
+END
+PDCalRGB.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1000516/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDCalRGB.java
+END
+ColorSpaceCMYK.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/996331/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/ColorSpaceCMYK.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/package.html
+END
+PDICCBased.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/928462/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDICCBased.java
+END
+PDLab.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/928462/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDLab.java
+END
+PDTristimulus.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDTristimulus.java
+END
+PDSeparation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/949543/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDSeparation.java
+END

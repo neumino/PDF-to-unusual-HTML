@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1063401/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encryption
+END
+ARCFour.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encryption/ARCFour.java
+END
+PDFEncryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encryption/PDFEncryption.java
+END
+DocumentEncryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1063401/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encryption/DocumentEncryption.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/encryption/package.html
+END

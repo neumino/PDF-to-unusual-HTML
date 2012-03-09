@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1140753/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfwriter
+END
+COSWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1137720/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfwriter/COSWriter.java
+END
+COSStandardOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1140753/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfwriter/COSStandardOutputStream.java
+END
+ContentStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1063401/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfwriter/ContentStreamWriter.java
+END
+COSFilterInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1095174/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfwriter/COSFilterInputStream.java
+END
+COSWriterXRefEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1092855/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfwriter/COSWriterXRefEntry.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfwriter/package.html
+END

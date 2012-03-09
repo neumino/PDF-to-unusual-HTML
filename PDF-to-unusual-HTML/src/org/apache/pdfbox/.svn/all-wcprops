@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1149290/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox
+END
+PdfDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1061036/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/PdfDecompressor.java
+END
+ExtractImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1083894/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/ExtractImages.java
+END
+ExportFDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/ExportFDF.java
+END
+Decrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/Decrypt.java
+END
+PDFMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/PDFMerger.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/package.html
+END
+PDFDebugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/PDFDebugger.java
+END
+PDFToImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/PDFToImage.java
+END
+ExtractText.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/ExtractText.java
+END
+Overlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/Overlay.java
+END
+TextToPDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/TextToPDF.java
+END
+PDFBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1004663/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/PDFBox.java
+END
+ImportXFDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/ImportXFDF.java
+END
+Encrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/Encrypt.java
+END
+PDFSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/PDFSplit.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/956645/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/Version.java
+END
+PrintPDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/PrintPDF.java
+END
+WriteDecodedDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1103454/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/WriteDecodedDoc.java
+END
+ExportXFDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/ExportXFDF.java
+END
+ImportFDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/ImportFDF.java
+END
+ConvertColorspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/ConvertColorspace.java
+END
+PDFReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/939027/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/PDFReader.java
+END

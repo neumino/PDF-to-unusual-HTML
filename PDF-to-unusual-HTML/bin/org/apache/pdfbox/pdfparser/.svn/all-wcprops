@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1142109/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser
+END
+PDFStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1022431/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/PDFStreamParser.java
+END
+VisualSignatureParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1095174/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/VisualSignatureParser.java
+END
+PDFParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1139575/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/PDFParser.java
+END
+BaseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1142109/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/BaseParser.java
+END
+PDFXrefStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1138995/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/PDFXrefStreamParser.java
+END
+ConformingPDFParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1142109/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/ConformingPDFParser.java
+END
+PDFObjectStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1022431/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/PDFObjectStreamParser.java
+END
+XrefTrailerResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1138995/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/XrefTrailerResolver.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/pdfparser/package.html
+END

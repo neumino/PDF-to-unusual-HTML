@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1135129/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator
+END
+SetStrokingCMYKColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetStrokingCMYKColor.java
+END
+SetNonStrokingCalRGBColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetNonStrokingCalRGBColor.java
+END
+SetLineDashPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetLineDashPattern.java
+END
+SetGraphicsStateParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetGraphicsStateParameters.java
+END
+SetNonStrokingColorSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetNonStrokingColorSpace.java
+END
+SetLineWidth.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetLineWidth.java
+END
+SetLineMiterLimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetLineMiterLimit.java
+END
+SetTextRenderingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetTextRenderingMode.java
+END
+SetNonStrokingICCBasedColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetNonStrokingICCBasedColor.java
+END
+SetLineJoinStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetLineJoinStyle.java
+END
+GSave.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1003195/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/GSave.java
+END
+SetMoveAndShow.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetMoveAndShow.java
+END
+SetLineCapStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetLineCapStyle.java
+END
+SetNonStrokingCMYKColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetNonStrokingCMYKColor.java
+END
+SetHorizontalTextScaling.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetHorizontalTextScaling.java
+END
+EndText.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/EndText.java
+END
+SetStrokingColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/949822/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetStrokingColor.java
+END
+MoveTextSetLeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/MoveTextSetLeading.java
+END
+SetNonStrokingSeparation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1135129/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetNonStrokingSeparation.java
+END
+SetNonStrokingRGBColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetNonStrokingRGBColor.java
+END
+Concatenate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/Concatenate.java
+END
+SetTextLeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetTextLeading.java
+END
+ShowText.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/ShowText.java
+END
+SetNonStrokingColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/949822/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetNonStrokingColor.java
+END
+NextLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/NextLine.java
+END
+SetStrokingColorSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetStrokingColorSpace.java
+END
+SetTextFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetTextFont.java
+END
+BeginText.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/BeginText.java
+END
+ShowTextGlyph.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1044823/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/ShowTextGlyph.java
+END
+GRestore.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/GRestore.java
+END
+SetWordSpacing.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetWordSpacing.java
+END
+SetCharSpacing.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetCharSpacing.java
+END
+SetStrokingGrayColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetStrokingGrayColor.java
+END
+SetStrokingSeparation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1135129/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetStrokingSeparation.java
+END
+BeginMarkedContentSequenceWithProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/BeginMarkedContentSequenceWithProperties.java
+END
+SetStrokingRGBColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetStrokingRGBColor.java
+END
+SetNonStrokingGrayColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetNonStrokingGrayColor.java
+END
+SetStrokingDeviceN.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/992237/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetStrokingDeviceN.java
+END
+MoveText.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/MoveText.java
+END
+EndMarkedContentSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/EndMarkedContentSequence.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/package.html
+END
+SetMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetMatrix.java
+END
+SetTextRise.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetTextRise.java
+END
+SetNonStrokingDeviceN.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/992237/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetNonStrokingDeviceN.java
+END
+SetStrokingCalRGBColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetStrokingCalRGBColor.java
+END
+SetStrokingICCBasedColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/992040/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/SetStrokingICCBasedColor.java
+END
+MoveAndShow.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/MoveAndShow.java
+END
+Invoke.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/Invoke.java
+END
+OperatorProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/OperatorProcessor.java
+END
+BeginMarkedContentSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/BeginMarkedContentSequence.java
+END
+CloseAndStrokePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/util/operator/CloseAndStrokePath.java
+END

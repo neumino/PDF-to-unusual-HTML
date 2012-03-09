@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1063402/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel
+END
+PrintURLs.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/PrintURLs.java
+END
+RemoveFirstPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/RemoveFirstPage.java
+END
+ReplaceString.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1063402/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/ReplaceString.java
+END
+PrintBookmarks.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/PrintBookmarks.java
+END
+CreateBlankPDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/CreateBlankPDF.java
+END
+CreateLandscapePDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/938579/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/CreateLandscapePDF.java
+END
+GoToSecondBookmarkOnOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/GoToSecondBookmarkOnOpen.java
+END
+HelloWorldType1AfmPfb.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/HelloWorldType1AfmPfb.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/Annotation.java
+END
+HelloWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/HelloWorld.java
+END
+ExtractMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1041509/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/ExtractMetadata.java
+END
+EmbeddedFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1063402/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/EmbeddedFiles.java
+END
+CreateBookmarks.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/CreateBookmarks.java
+END
+AddMessageToEachPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1044678/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/AddMessageToEachPage.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/package.html
+END
+ImageToPDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/ImageToPDF.java
+END
+AddMetadataFromDocInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/AddMetadataFromDocInfo.java
+END
+AddJavascript.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/AddJavascript.java
+END
+UsingTextMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/UsingTextMatrix.java
+END
+ShowColorBoxes.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/ShowColorBoxes.java
+END
+ReplaceURLs.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/ReplaceURLs.java
+END
+RubberStampWithImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/RubberStampWithImage.java
+END
+RubberStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/RubberStamp.java
+END
+AddImageToPDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/AddImageToPDF.java
+END
+HelloWorldTTF.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/HelloWorldTTF.java
+END
+PrintDocumentMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/924515/pdfbox/trunk/pdfbox/src/main/java/org/apache/pdfbox/examples/pdmodel/PrintDocumentMetaData.java
+END
