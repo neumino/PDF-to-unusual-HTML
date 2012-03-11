@@ -120,7 +120,7 @@ public class Pdf2Json extends PDFTextStripper{
             int nbPage = allPages.size();
 
             int exitVal = 0;
-            /*
+            
     		int density = (int) (resolution*zoom);
         	String imageName = fileName+".png";
     		if (nbPage == 1) {
@@ -137,7 +137,7 @@ public class Pdf2Json extends PDFTextStripper{
     			exitVal = 1;
     			//System.exit(1);
     		}
-             */
+            
     		if (exitVal == -2) {
         		System.err.println("Time out");    			
     		}
@@ -146,30 +146,27 @@ public class Pdf2Json extends PDFTextStripper{
     		}
     		else if (exitVal == 0) {
         		structure = new Structure();
-        		idLine = 0;
-        	    lineMarginTop = 0;
-        	    lineMarginLeft = 0;
-        	    lineCurrentWidth = 0;
-        	    lineHeight = 0;
-        	    wordMarginLeft = 0;
-        	    wordCurrentWidth = 0;
-        		currentFontSizePx = 0;
         		
         		
-            	PDPage firstPage = (PDPage)allPages.get( 0 );
 
 
         				
-        		System.out.print( "	Processing page: ");
 	            for( int i=0; i<nbPage; i++ ) {
-	            	System.out.print(i+" ");
-	
-            	
+	        		idLine = 0;
+	        	    lineMarginTop = 0;
+	        	    lineMarginLeft = 0;
+	        	    lineCurrentWidth = 0;
+	        	    lineHeight = 0;
+	        	    wordMarginLeft = 0;
+	        	    wordCurrentWidth = 0;
+	        		currentFontSizePx = 0;
+
+	        		
 	            	PDPage page = (PDPage)allPages.get( i );
 	            	BufferedImage image = page.convertToImage(BufferedImage.TYPE_INT_RGB, resolution);
 	            	
-	            	Page newPage = new Page((int) zoom*image.getWidth(), (int) zoom*image.getHeight(), marginTopBackground);
-	            	marginTopBackground += zoom*image.getHeight();
+	            	Page newPage = new Page((int) (zoom*image.getWidth()), (int) (zoom*image.getHeight()), marginTopBackground);
+	            	marginTopBackground += (int) (zoom*image.getHeight());
 	            	structure.add(newPage);
 	            	
 	            	PDStream contents = page.getContents();
@@ -184,11 +181,13 @@ public class Pdf2Json extends PDFTextStripper{
 	            		}
 	            	}
 	            	
-
+					Word newWord = new Word(StringEscapeUtils.escapeJava(currentLine.toString()), wordMarginLeft, wordCurrentWidth);
+					structure.addWordToLastPage(newWord);
+					structure.updateLastLine(lineCurrentWidth);
 
 	
 	            }
-	        	System.out.print("\n");
+
 	        	
 	        	
 	        	//Save the structure in the file
@@ -196,7 +195,7 @@ public class Pdf2Json extends PDFTextStripper{
 	        	String json = gson.toJson(structure);  
 
 	        	try{
-	        		FileWriter fstream = new FileWriter(pathToDirectory+"words.txt");
+	        		FileWriter fstream = new FileWriter(pathToDirectory+fileName+"_words.txt");
 	        		BufferedWriter out = new BufferedWriter(fstream);
 	        		out.write(json);
 	        		out.close();

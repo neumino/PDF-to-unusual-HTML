@@ -1,0 +1,77 @@
+/* Global tags */
+html{
+	height: 100%;
+	width: 100%;
+	min-width:1000px;
+	margin: 0px;
+	padding: 0px;
+}
+
+a {
+	color:#000;
+	text-decoration:none;
+	font-weight:bold;
+}
+a:hover {
+	color:#000;
+	text-decoration:underline;
+}
+
+
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	font-family: Tahoma,Arial,Helvetica,sans-serif;
+}
+
+
+
+#main{
+	margin: 0px;
+	padding: 0px;
+}
+
+#test{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+}
+
+.page{
+	position: absolute;
+	left: 0px;
+	z-index: 1;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  /* this will work for QtWebKit in future */
+  -webkit-user-drag: none;
+
+}
+.selection{
+	position: absolute;
+	left: 0px;
+	z-index: 2;
+	cursor: text;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  /* this will work for QtWebKit in future */
+  -webkit-user-drag: none;
+
+}
+
+
+.highlight_text{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background: #63B7F8;
+	opacity: 0.5;
+	z-index: 1;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  /* this will work for QtWebKit in future */
+  -webkit-user-drag: none;
+
+}

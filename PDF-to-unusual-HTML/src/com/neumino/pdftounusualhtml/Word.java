@@ -9,13 +9,13 @@ package com.neumino.pdftounusualhtml;
 
 public class Word {
 	private String word;
-	private int startX;
+	private int x;
 	private int width;
 	
 	
 	public Word(String word, int startX, int width) {
 		this.word = word;
-		this.startX = startX;
+		this.x = startX;
 		this.width = width;
 	}
 

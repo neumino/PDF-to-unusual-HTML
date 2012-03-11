@@ -6,24 +6,34 @@ I have used Apache License v2.0, so the same license probably apply.
 
 
 /************** About the code **************/
-Don't expect great and elegant code.
+There is two parts in this project.
 
-Everything here was coded in a rush (less than one day for this one too).
+1/ The first one is the back end processing. It's done with Java, takes a PDF and do two things:
+- Extract all the words with their position and save it in a .txt file with a JSON format.
+- Convert the background (PDF without the text) in images with ImageMagick (because it's faster than with PDFBox).
 
 It's almost the original source code.
-This project used to crawl through directories, find pdf and convert them and save the publications converted in a MySQL database. I have removed all the code related to this.
-I have removed all the unuse classes (things I tried).
+This project used to crawl through directories, find pdf and convert them and save the publications converted in a MySQL database. I have removed all the code related to this. I have removed all the unuse classes (things I tried). If you are interested in, just mail me (it's free).
+
+I'm saving everything in a file, but it would be better to store it in a proper database.
+Forget about saving it in a MySQL database with one word per entry, your database won't scale.
+
+
+
+2/ The second part is the interface. I have rewrote the core of the interface to display the images and let the user make selection.
+Compare to the original version, the tree of HTML element is better balanced, the user experience is slightly better (I have spotted some bugs that I have corrected) and the sources are way more clean.
+There is just the core, so it's easier if you want to adapt it. I have remove all the things like export to the clipboard, add comments etc. If you are interested in the old sources, again mail me (it's free).
 
 
 
 /************** To come **************/
 I plan to fork this project and try something more scalable.
-The idea is to use something like Node.js to convert PDF files on the fly.
+The idea is to to convert PDF files on the fly. For that I plan to use something like Node.js, and convert one page at a time. One of the reason I have rewrote the interface is that it's going to be easier to do it now.
 
-If you are interested/need it, contact me, I might change/have changed my mind.
+If you are interested/need it, contact me, it could be interesting.
 
 
 /************** Contact **************/
-Michel T.
+Michel Tu
 orphee@gmail.com
 http://www.neumino.com

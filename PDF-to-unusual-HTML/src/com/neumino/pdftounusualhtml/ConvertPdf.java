@@ -5,8 +5,6 @@ import java.io.IOException;
 import java.sql.SQLException;
 
 public class ConvertPdf {
-	static String inputDirectory;
-	static char charDelimiter = '/';
 	static String pathToImagemagick = "convert";
 	
 	

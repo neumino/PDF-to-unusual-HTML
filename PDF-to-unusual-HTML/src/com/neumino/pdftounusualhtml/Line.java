@@ -17,11 +17,11 @@ public class Line {
 	/**
      * Top left corner's x value of the selection
      */
-	private int startX;
+	private int x;
 	/**
      * Top left corner's y value of the selection
      */
-	private int startY;
+	private int y;
 	/**
      * Width of the line
      */
@@ -47,8 +47,8 @@ public class Line {
 	 */
 	public Line(int idLine, int startX, int startY, int width, int height) {
 		this.idLine = idLine;
-		this.startX = startX;
-		this.startY = startY;
+		this.x = startX;
+		this.y = startY;
 		this.width = width;
 		this.height = height;
 	}

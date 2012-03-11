@@ -11,26 +11,26 @@ import java.util.ArrayList;
  */
 
 public class Structure {
-	private ArrayList<Page> structure = new ArrayList<Page>();
+	private ArrayList<Page> pages = new ArrayList<Page>();
 
 	public Structure() {
 	}
 
 
 	public void add(Page page){
-		structure.add(page);
+		pages.add(page);
 	}
 	public void add(Line line){
-		structure.get(structure.size()-1).add(line);
+		pages.get(pages.size()-1).add(line);
 	}
 	
 	public void addWordToLastPage(Word word) {
-		Page lastPage = this.structure.get(structure.size() - 1);
+		Page lastPage = this.pages.get(pages.size() - 1);
 		lastPage.addWordToLastLine(word);
 	}
 	
 	public void updateLastLine(int width) {
-		Page lastPage = this.structure.get(structure.size() - 1);
+		Page lastPage = this.pages.get(pages.size() - 1);
 		lastPage.updateLastLine(width);
 	}
 	
